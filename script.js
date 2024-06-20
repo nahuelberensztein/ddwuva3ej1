@@ -4,4 +4,4 @@ let fechaDeNacimiento = prompt("Ingrese su año de nacimiento:");
 
 let diasDeNacimiento = (2024 - fechaDeNacimiento) * 365;
 
-alert("Nombre: " + nombre + "\nEdad: " + edad + "\nFecha de Nacimiento: " + fechaDeNacimiento + "\nDías vividos aproximados: " + diaDeNacimiento);
+alert("Nombre: " + nombre + "\nEdad: " + edad + "\nFecha de Nacimiento: " + fechaDeNacimiento + "\nDías vividos aproximados: " + diasDeNacimiento);
